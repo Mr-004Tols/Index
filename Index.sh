@@ -154,7 +154,7 @@ echo
 echo $red "Simpan SC Di Memory Internal Di Luar Folder "
 echo
 echo $yellow "Web Target"
-echo $white "http://contsol.co.za"
+echo $white "https://smconsult.id/"
 echo $cyan "http://colourfactory.co.za"
 echo $white "http://chillibitez.co.za"
 echo $cyan "http://chasingfantasia.com"
