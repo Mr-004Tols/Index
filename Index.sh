@@ -6,7 +6,9 @@ red="\033[35;1m"
 purple="\033[37;1m"
 cyan="\033[36;1m"
 white="\033[39;1m"
+clear
 python2 meizu.py
+clear
 pkg install toilet -y
 bash jr.sh
 echo
