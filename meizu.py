@@ -6,7 +6,7 @@ print ("\033[1;32matau silahkan Hubungi wa 081228244243")
 
 username = 'Mr_004'      
 
-password = '45'
+kata sandi = '86'
 
 
 
